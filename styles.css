@@ -21,10 +21,10 @@ ul li{
 	width: 50%;
 	padding: 10px;
 }
-ul li : first-child{
+ul li:first-child{
 font-size: 22px; 
 }
-ul li : last-child{
+ul li:last-child{
 font-size: 22px; 
 }
 ul li:nth-child(2n){
